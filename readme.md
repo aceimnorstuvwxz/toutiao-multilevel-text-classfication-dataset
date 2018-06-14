@@ -4,7 +4,7 @@
 
 
 
-
+<br /> <br /> 
 
 数据来源：
 
@@ -12,14 +12,14 @@
 
 
 
-
+<br /> <br /> 
 
 文本多层分类的概念见下图
 
 ![](mlc.png)
 
 
-
+<br /> <br /> 
 
 
 
@@ -35,14 +35,14 @@
 
 
 
-
+<br /> <br /> 
 
 
 所有分类的目录见 `all_cat.txt`
 
 
 
-
+<br /> <br /> 
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-
+<br /> <br /> 
 
 
 采集时间：
@@ -62,7 +62,7 @@
 
 
 
-
+<br /> <br /> 
 
 
 
@@ -71,3 +71,7 @@ NLP的同学加我微信吧：
 
 ![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
 
+<br /> <br /> 
+
+LISCENSE
+[WTFPL](https://zh.wikipedia.org/zh-hans/WTFPL)
