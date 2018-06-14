@@ -26,6 +26,8 @@
 
 
 
+
+
 所有分类的目录见 `all_cat.txt`
 
 
@@ -48,7 +50,8 @@
 
 
 
-
 加我微信：
+
+
 ![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
 
