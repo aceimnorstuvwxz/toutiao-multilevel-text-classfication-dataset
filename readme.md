@@ -66,10 +66,10 @@
 
 
 
-NLP的同学加我微信吧：
+NLP chat group：
 
 
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
+![](http://fate2.oss-cn-shanghai.aliyuncs.com/meta/qq-qun-nlp.jpeg)
 
 <br />
 
