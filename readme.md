@@ -69,7 +69,6 @@
 NLP chat group：
 
 
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/meta/qq-qun-nlp.jpeg)
 
 <br />
 
